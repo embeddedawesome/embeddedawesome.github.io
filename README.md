@@ -1,2 +1,3 @@
-# embeddedawesome.github.io
-Documentation
+# Embedded Awesome
+Documentation available for:
+- [Yakka](/yakka)
